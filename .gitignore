@@ -1,3 +1,5 @@
+package.py
+*.psd
 
 # Created by https://www.gitignore.io/api/linux,python,windows,notepadpp,powershell,pycharm+all,visualstudiocode
 
@@ -196,10 +198,6 @@ venv.bak/
 
 ### VisualStudioCode ###
 .vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
 .history
 
 ### Windows ###
